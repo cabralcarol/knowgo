@@ -8,4 +8,6 @@ void main() {
     config_spi();
 
     write_uart();
+
+    printf("hello world!");
 }
