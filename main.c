@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <uart.h>
 
-void main() {}
 
+void main() {
+
+    write_uart();
+}
