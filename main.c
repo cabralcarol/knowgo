@@ -1,3 +1,9 @@
 #include <stdio.h>
+#include <spi.h>
 
-void main() {}
+
+void main() {
+
+    config_spi();
+
+}
